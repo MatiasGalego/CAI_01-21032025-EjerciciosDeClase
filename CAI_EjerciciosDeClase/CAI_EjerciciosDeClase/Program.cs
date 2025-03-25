@@ -10,6 +10,7 @@ namespace CAI_EjerciciosDeClase
     {
         static void Main(string[] args)
         {
+            "Hola Mundo"
         }
     }
 }
